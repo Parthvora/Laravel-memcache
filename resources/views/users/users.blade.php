@@ -6,7 +6,7 @@
   <p>
     {!! $msg !!}
   </p>
-  This demo will fetch and show records from the database for the first request.<br/> For subsequent requests which are requested in next 10 seconds, demo will show data from memcache.<br/>
+  This demo will fetch and show records from the database for the first <b>request</b>.<br/> For subsequent requests which are requested in next 10 seconds, demo will show data from the <b>memcache</b>.<br/>
   <br/>
 </div>
 <div class="table-responsive">
